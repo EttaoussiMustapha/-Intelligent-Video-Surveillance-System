@@ -1,4 +1,5 @@
 # -Intelligent-Video-Surveillance-System
+@EttaoussiMustapha's ""How to Set Up a Surveillance Camera With Face Recognition & Send Pictures Via Email Using MotionEye & Python""
 Project Description: Intelligent Video Surveillance System with Raspberry Pi
 
 Objective:
